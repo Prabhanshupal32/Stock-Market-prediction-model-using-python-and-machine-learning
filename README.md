@@ -14,3 +14,7 @@
 
 # From Here Now Data Set Starts
 <img width="965" alt="Screenshot 2022-11-29 at 9 29 00 AM" src="https://user-images.githubusercontent.com/119333227/204435605-ff953abe-0a69-4099-b1ed-677b258eea2e.png">
+<img width="944" alt="Screenshot 2022-11-29 at 9 32 42 AM" src="https://user-images.githubusercontent.com/119333227/204435940-e9f662d4-e8be-46e6-b955-67ca9b3f4936.png">
+
+# This Is The Result Of Model In Live Market Of TataPower Stock
+<img width="923" alt="Screenshot 2022-11-29 at 9 34 49 AM" src="https://user-images.githubusercontent.com/119333227/204436277-3862e0ec-0edf-4de1-b90c-52d172fcc398.png">
